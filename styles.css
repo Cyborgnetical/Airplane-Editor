@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+}
+#editor{
+  position: absolute;
+  width: 100vmin;
+  height: 100vmin;
+  left:0;
+  top:0;
+}
